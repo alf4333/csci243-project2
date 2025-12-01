@@ -1,0 +1,7 @@
+2025-11-01 12:00 - Initial repo & README
+2025-11-02 09:30 - Implemented stack.c (make_stack, push, top, pop, empty_stack, free_stack)
+2025-11-03 11:45 - Implemented symtab.c (build_table, dump_table, lookup_table, create_symbol, free_table)
+2025-11-05 15:20 - Implemented tree_node.c (make_leaf, make_interior, free_tree, print_infix)
+2025-11-07 18:10 - Implemented parser.c (tokenize, parse, ternary '?', eval_tree)
+2025-11-08 20:00 - Implemented interp.c (main REPL, comment handling, printing)
+2025-11-09 10:00 - Tested with sym.1 and sample inputs; fixed memory cleanup issues
